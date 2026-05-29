@@ -41,4 +41,4 @@ Server owners may request deletion of their server’s stored SmagAmp data by co
 
 Support server:
 
-discord.gg/yzEqeR2pAv
+https://discord.gg/yzEqeR2pAv
