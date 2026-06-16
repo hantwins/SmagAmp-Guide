@@ -25,4 +25,4 @@
 `/serverstats` `/setupstats` `/updatestats`
 
 ## Auto-Role
-`/autorole` `/clearautorole` `/giverole` `/removerole`
+`/autorole` `/clearautorole`
