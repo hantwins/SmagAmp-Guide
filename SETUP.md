@@ -35,4 +35,5 @@ SmagAmp may need:
 
 Support server:
 
-discord.gg/yzEqeR2pAv
+https://discord.gg/NtU2mKcET7
+
